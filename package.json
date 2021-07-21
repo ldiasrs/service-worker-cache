@@ -1,0 +1,20 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "description": "Service worker cache demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "service worker",
+    "cache",
+    "demo"
+  ],
+  "author": "Leonardo Cardoso Dias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
